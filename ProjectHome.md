@@ -1,0 +1,2 @@
+java.util.Calendar is not used in gwt client side, so the developer needs to develop related code.
+but these codes is too redundancy, so provide this jar to developer can skip these redundancy code and save time.
